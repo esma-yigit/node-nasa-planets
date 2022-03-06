@@ -1,0 +1,15 @@
+{
+  "name": "node-nasa-planets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodeman index.js"
+  },
+  "repository": "git@github.com:esma-yigit/node-nasa-planets.git",
+  "author": "esma-yigit <75517864+esma-yigit@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
